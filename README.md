@@ -26,11 +26,11 @@ El propósito principal es comprender cómo una aplicación frontend puede comun
 
 | Campo | Información |
 |---|---|
-| Nombre(s) | NORMA ROSIBELÍ |
+| Nombre(s) | NORMA ROSIBEL |
 | Apellido(s) | LARA ZUNIGA |
 | Correo Electrónico | Rosibel.lara99@gmail.com|
 | Asignatura | DESARROLLO WEB 2 |
-| Tutor | RELLENAR JONATHAN VLADIMIR MATE VILLANUEVA|
+| Tutor |JONATHAN VLADIMIR MATE VILLANUEVA|
 | Fecha de Entrega | 01 DE NOVIEMBRE 2026s|
 
 ---
